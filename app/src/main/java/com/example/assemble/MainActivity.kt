@@ -1,5 +1,5 @@
 package com.example.assemble
-// 새로 만들었어요 해해
+// 새로 만들었어요 해해, 세팅 완료!
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
